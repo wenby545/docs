@@ -102,3 +102,23 @@ dist
 
 # TernJS port file
 .tern-port
+.temp/palette.styl
+.temp/style.styl
+.temp/app-enhancers/0.js
+.temp/app-enhancers/1.js
+.temp/app-enhancers/data-block.js
+.temp/app-enhancers/global-components-1.js
+.temp/app-enhancers/global-components-2.js
+.temp/app-enhancers/global-components-3.js
+.temp/app-enhancers/global-components-4.js
+.temp/app-enhancers/global-components-5.js
+.temp/app-enhancers/global-components-6.js
+.temp/app-enhancers/global-components-7.js
+.temp/internal/app-enhancers.js
+.temp/internal/global-ui.js
+.temp/internal/layout-components.js
+.temp/internal/page-components.js
+.temp/internal/root-mixins.js
+.temp/internal/routes.js
+.temp/internal/siteData.js
+.temp/transform/ClientComputedMixin.js
